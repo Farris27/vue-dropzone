@@ -6164,8 +6164,8 @@ vue-style-loader@^3.0.0, vue-style-loader@^3.0.1:
     loader-utils "^1.0.2"
 
 vue-template-compiler@>=2.0, vue-template-compiler@^2.5.10:
-  version "2.5.13"
-  resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.5.13.tgz#12a2aa0ecd6158ac5e5f14d294b0993f399c3d38"
+  version "2.6.10"
+  resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.6.10.tgz#323b4f3495f04faa3503337a82f5d6507799c9cc"
   dependencies:
     de-indent "^1.0.2"
     he "^1.1.0"
@@ -6181,8 +6181,8 @@ vue-template-validator@^1.1.5:
     chalk "^1.1.1"
 
 vue@^2.5.10:
-  version "2.5.13"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.13.tgz#95bd31e20efcf7a7f39239c9aa6787ce8cf578e1"
+  version "2.6.10"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
 
 watchpack@^1.4.0:
   version "1.4.0"
